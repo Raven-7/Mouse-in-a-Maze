@@ -10,12 +10,13 @@ Gray Blocks are Dead End (value=0)<br/>
 ![Image description](https://github.com/Raven-7/Mouse-in-a-Maze/blob/master/maze_problem.png)
 
 Following is matrix representation-<br/>
-                {1, 0, 0, 0}<br/>
-                {1, 1, 0, 1}<br/>
-                {0, 1, 0, 0}<br/>
-                {1, 1, 1, 1}<br/>
+              
+                {1, 0, 0, 0}
+                {1, 1, 0, 1}
+                {0, 1, 0, 0}
+                {1, 1, 1, 1}
 
-Thia is a maze with highlighted solution path-<br/>
+This is a maze with highlighted solution path-<br/>
 ![Image description](https://github.com/Raven-7/Mouse-in-a-Maze/blob/master/maze_sol.png)<br/>
 
 Following is the solution matrix (output of program) for the above input matrx.<br/>

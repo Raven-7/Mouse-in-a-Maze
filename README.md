@@ -20,9 +20,9 @@ Thia is a maze with highlighted solution path-<br/>
 
 Following is the solution matrix (output of program) for the above input matrx.<br/>
 
-                {1, 0, 0, 0}<br/>
-                {1, 1, 0, 0}<br/>
-                {0, 1, 0, 0<br/>
-                {0, 1, 1, 1}<br/>
+                {1, 0, 0, 0}
+                {1, 1, 0, 0}
+                {0, 1, 0, 0}
+                {0, 1, 1, 1}
  All enteries in solution path are marked as 1.
 
